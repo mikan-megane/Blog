@@ -1,12 +1,12 @@
 # Require any additional compass plugins here.
 
 # Set this to the root of your project when deployed:
-http_path = "https://copy.com/rltLKlJDUBRL/"
+http_path = "https://rawgit.com/mikan-megane/Blog/master/"
 css_dir = "stylesheets"
 sass_dir = "scss"
 images_dir = "images"
 javascripts_dir = "javascripts"
-http_images_dir = "Public/"
+http_images_dir = "images/"
 
 # You can select your preferred output style here (can be overridden via the command line):
 output_style = :expanded

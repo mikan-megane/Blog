@@ -1,13 +1,13 @@
 /*Header*/
 .skinHeaderFrame {
-  background: url('https://copy.com/rltLKlJDUBRL/Public/background2.jpg');
+  background: url('https://rawgit.com/mikan-megane/Blog/master/images/background2.jpg?1387950204');
   -webkit-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 
 header {
-  background: url('https://copy.com/rltLKlJDUBRL/Public/header.png') no-repeat center top;
+  background: url('https://rawgit.com/mikan-megane/Blog/master/images/header.png?1384220620') no-repeat center top;
 }
 
 .skinHeaderArea {
@@ -68,7 +68,7 @@ header {
 }
 
 .skinContentsFrame {
-  background: url('https://copy.com/rltLKlJDUBRL/Public/background.png');
+  background: url('https://rawgit.com/mikan-megane/Blog/master/images/background.png?1384220620');
 }
 
 .skinArticle {
@@ -137,12 +137,12 @@ header {
 }
 
 .skinArticle3 {
-  background: url('https://copy.com/rltLKlJDUBRL/Public/Sleep.png') 15px 20px no-repeat;
+  background: url('https://rawgit.com/mikan-megane/Blog/master/images/Sleep.png?1384220620') 15px 20px no-repeat;
   padding-top: 13px;
 }
 
 .skinArticle.themeNumber10024132494 .skinArticle3, .skinArticle.themeNumber10029213458 .skinArticle3, .skinArticle.themeNumber10029435266 .skinArticle3, .skinArticle.themeNumber10073685232 .skinArticle3 {
-  background: url('https://copy.com/rltLKlJDUBRL/Public/Wake_up.png') 15px 20px no-repeat;
+  background: url('https://rawgit.com/mikan-megane/Blog/master/images/Wake_up.png?1384220620') 15px 20px no-repeat;
 }
 
 .skinArticle.themeNumber10073685232 .detailOn img {
@@ -236,43 +236,43 @@ header {
 }
 
 .skinMenu.profileMenu .skinMenuHeader, .profileMenu.registArea .skinMenuHeader {
-  background: url('https://copy.com/rltLKlJDUBRL/Public/Sprite-s7949861bdd.png') 0 -220px no-repeat;
+  background: url('https://rawgit.com/mikan-megane/Blog/master/images/Sprite-s7949861bdd.png') 0 -220px no-repeat;
   height: 44px;
   width: 120px;
 }
 
 .freespaceArea.subModule .skinMenuHeader {
-  background: url('https://copy.com/rltLKlJDUBRL/Public/Sprite-s7949861bdd.png') 0 -176px no-repeat;
+  background: url('https://rawgit.com/mikan-megane/Blog/master/images/Sprite-s7949861bdd.png') 0 -176px no-repeat;
   height: 44px;
   width: 206px;
 }
 
 .skinMenu.calendarMenu .skinMenuHeader, .calendarMenu.registArea .skinMenuHeader {
-  background: url('https://copy.com/rltLKlJDUBRL/Public/Sprite-s7949861bdd.png') 0 -33px no-repeat;
+  background: url('https://rawgit.com/mikan-megane/Blog/master/images/Sprite-s7949861bdd.png') 0 -33px no-repeat;
   height: 33px;
   width: 155px;
 }
 
 .skinMenu.themeMenu .skinMenuHeader, .themeMenu.registArea .skinMenuHeader {
-  background: url('https://copy.com/rltLKlJDUBRL/Public/Sprite-s7949861bdd.png') 0 -99px no-repeat;
+  background: url('https://rawgit.com/mikan-megane/Blog/master/images/Sprite-s7949861bdd.png') 0 -99px no-repeat;
   height: 34px;
   width: 105px;
 }
 
 .skinMenu.recentEntriesMenu .skinMenuHeader, .recentEntriesMenu.registArea .skinMenuHeader {
-  background: url('https://copy.com/rltLKlJDUBRL/Public/Sprite-s7949861bdd.png') 0 0 no-repeat;
+  background: url('https://rawgit.com/mikan-megane/Blog/master/images/Sprite-s7949861bdd.png') 0 0 no-repeat;
   height: 33px;
   width: 200px;
 }
 
 .skinMenu.readerMenu .skinMenuHeader, .readerMenu.registArea .skinMenuHeader {
-  background: url('https://copy.com/rltLKlJDUBRL/Public/Sprite-s7949861bdd.png') 0 -66px no-repeat;
+  background: url('https://rawgit.com/mikan-megane/Blog/master/images/Sprite-s7949861bdd.png') 0 -66px no-repeat;
   height: 33px;
   width: 125px;
 }
 
 .skinMenu.favoriteMenu .skinMenuHeader, .favoriteMenu.registArea .skinMenuHeader {
-  background: url('https://copy.com/rltLKlJDUBRL/Public/Sprite-s7949861bdd.png') 0 -133px no-repeat;
+  background: url('https://rawgit.com/mikan-megane/Blog/master/images/Sprite-s7949861bdd.png') 0 -133px no-repeat;
   height: 43px;
   width: 140px;
 }
@@ -296,7 +296,7 @@ ul#amebaBar {
 }
 
 #barLogoTop > a {
-  background: url('https://copy.com/rltLKlJDUBRL/Public/logo_ameba_top.gif') no-repeat;
+  background: url('https://rawgit.com/mikan-megane/Blog/master/images/logo_ameba_top.gif?1384304004') no-repeat;
   height: 15px;
   width: 67px;
   display: block;
@@ -318,7 +318,7 @@ ul#amebaBar {
   margin-bottom: 2px;
 }
 .footerNav a, .footerNav span {
-  background-image: url('https://copy.com/rltLKlJDUBRL/Public/footer_nav.png');
+  background-image: url('https://rawgit.com/mikan-megane/Blog/master/images/footer_nav.png?1384220620');
 }
 
 .skinMessageBoard {
@@ -339,4 +339,8 @@ ul#amebaBar {
 
 #naviLink {
   display: none !important;
+}
+
+.skinFrame {
+  padding-top: 0;
 }
