@@ -1,0 +1,134 @@
+@charset "utf-8";
+
+/*Article*/
+.userLinkArea{//ブログ画像一覧を見る
+	margin:5px 0 0;
+}
+.imagelistLink{//ブログ画像(ry
+	padding:0 !important;
+}
+.skinPagingListColor{//ブログg(ry
+	padding:0;
+}
+.pagingArea {//次ページ,記事一覧
+	margin:0 auto 10px;
+	padding: 5px;
+	background:rgba(255,255,255,0.4)
+}
+.skinSimpleBtn{//次ページ
+	@include border-radius(0);
+	border: none;
+	margin-top: 5px;
+	&:focus{
+		@extend .skinSimpleBtn;
+	}
+	&:hover{
+		@extend .skinSimpleBtn;
+	}
+	&:visited{
+		@extend .skinSimpleBtn;
+	}
+}
+.pagingList{//記事一覧
+	background:#fff;
+	padding:4px 14px 3px;
+	margin:0;
+}
+
+.skinContentsFrame{ //背景
+	background:image-url('background.png');
+}
+.skinArticle { //透明部分
+	border: none;
+	background: rgba(255,255,255,0.5);
+	padding: 0 0 10px;
+}
+.skinArticleHeader{ //タイトル
+	margin: 0 15px + 60px;
+	padding: 0;
+	border: none;
+}
+.skinArticleTitle{
+	font-size: 1.8em;
+	&:hover{
+		@extend .skinArticleTitle;
+	}
+	&:focus{
+		@extend .skinArticleTitle;
+	}
+}
+.articleDetailArea{ //投稿時間・テーマ
+	padding: 0;
+	color: #646464;
+}
+.skinArticleBody2{
+	margin: 0 15px;
+	.pagingArea.entryPaging{
+		display:none;
+	}
+}
+.articleText{ //要素
+	background: #fff;
+	padding: 10px 10px;
+	margin-top: 5px;
+	a{
+		text-decoration:underline;
+	}
+}
+
+$height:-161.2px;
+$width:-146.4px;
+#ArticleFooter{
+	a{
+		float:left;
+		overflow: hidden;
+		display:block;
+		height:-$height;
+		width:-$width;
+	}
+}
+#ArticleFooterimg{
+	margin-left: 75px;
+}
+.rank img{
+	margin-left: 0;
+}
+.mura img{
+	margin-left: $width;
+}
+.peta img{
+	margin-left: $width * 2;
+}
+.rank img:hover,.mura img:hover,.peta img:hover{
+	margin-top: $height;
+}
+
+
+
+.skinArticle3{ //テーマ,NOTにこちゃんのこと
+	background: image-url('Sleep.png') 15px 20px no-repeat;
+	padding-top: 13px;
+}
+.skinArticle.themeNumber10024132494,.skinArticle.themeNumber10029213458,.skinArticle.themeNumber10029435266,.skinArticle.themeNumber10073685232{ //テーマ,にこちゃんのこと&ニコ動
+	.skinArticle3{
+		background: image-url('Wake_up.png') 15px 20px no-repeat;
+	}
+}
+.skinArticle.themeNumber10073685232 .detailOn img{//今日の一枚
+	width:450px;
+}
+
+
+
+
+
+.skinArticleFooter{//SNS
+	border-top: 0;
+	margin:0 auto;
+}
+.articleThemeListArea{//同じテーマの記事
+	margin:5px 0;
+}
+.articleImageListArea{//画像つき記事
+	margin:0;
+}
