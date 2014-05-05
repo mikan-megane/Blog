@@ -1,8 +1,6 @@
 /*Header*/
 .skinHeaderFrame {
-  -webkit-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/heder.jpg') no-repeat center top;
 }
 
 .skinHeaderArea {

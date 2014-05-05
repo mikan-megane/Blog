@@ -3,11 +3,11 @@
 /*Header*/
 $header: 330px;
 .skinHeaderFrame{
-	// background:image-url('background2.jpg');
-	-webkit-background-size: cover;-o-background-size: cover; background-size: cover;
+	background:image-url('heder.jpg') no-repeat center top;
+	// -webkit-background-size: cover;-o-background-size: cover; background-size: cover;
 }
 header {
-	// background:image-url('header.png') no-repeat center top;
+	// background:image-url('header.jpg') no-repeat center top;
 }
 .skinHeaderArea{//クリック範囲-横幅
 	width:100%;
