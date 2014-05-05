@@ -1,15 +1,27 @@
 /*Header*/
 .skinHeaderFrame {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/heder.jpg') no-repeat center top;
+  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/heder.jpg?1399229624') no-repeat center top;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 330px;
+}
+
+header {
+  background: rgba(255, 255, 255, 0.7);
+  position: fixed;
+  height: 100px;
+  width: 100%;
 }
 
 .skinHeaderArea {
+  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Title.png?1399229622') no-repeat left top;
   width: 100%;
 }
 
 .skinTitle {
   display: block;
-  height: 330px;
+  height: 100px;
   text-indent: -500px;
 }
 
