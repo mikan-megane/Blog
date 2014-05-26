@@ -1,6 +1,10 @@
 /*Header*/
 .skinHeaderFrame {
+<<<<<<< HEAD
   background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/header.jpg?1401097616') no-repeat center top;
+=======
+  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/header.jpg?1401094801') no-repeat center top;
+>>>>>>> origin/master
   -webkit-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
