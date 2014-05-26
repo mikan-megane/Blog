@@ -232,45 +232,45 @@ header {
 }
 
 .skinMenu.profileMenu .skinMenuHeader, .profileMenu.registArea .skinMenuHeader {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s250ca41846.png') 0 -360px no-repeat;
-  height: 120px;
-  width: 504px;
+  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s0ded0b4385.png') 0 -162px no-repeat;
+  height: 55px;
+  width: 229px;
 }
 
 .freespaceArea.subModule .skinMenuHeader {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s250ca41846.png') 0 -480px no-repeat;
-  height: 127px;
-  width: 510px;
+  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s0ded0b4385.png') 0 -332px no-repeat;
+  height: 58px;
+  width: 231px;
 }
 
 .skinMenu.calendarMenu .skinMenuHeader, .calendarMenu.registArea .skinMenuHeader {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s250ca41846.png') 0 -734px no-repeat;
-  height: 127px;
-  width: 510px;
+  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s0ded0b4385.png') 0 -217px no-repeat;
+  height: 57px;
+  width: 231px;
 }
 
 .skinMenu.themeMenu .skinMenuHeader, .themeMenu.registArea .skinMenuHeader {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s250ca41846.png') 0 0 no-repeat;
-  height: 120px;
-  width: 504px;
+  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s0ded0b4385.png') 0 0 no-repeat;
+  height: 54px;
+  width: 229px;
 }
 
 .skinMenu.recentEntriesMenu .skinMenuHeader, .recentEntriesMenu.registArea .skinMenuHeader {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s250ca41846.png') 0 -240px no-repeat;
-  height: 120px;
-  width: 504px;
+  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s0ded0b4385.png') 0 -108px no-repeat;
+  height: 54px;
+  width: 229px;
 }
 
 .skinMenu.readerMenu .skinMenuHeader, .readerMenu.registArea .skinMenuHeader {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s250ca41846.png') 0 -120px no-repeat;
-  height: 120px;
-  width: 504px;
+  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s0ded0b4385.png') 0 -54px no-repeat;
+  height: 54px;
+  width: 229px;
 }
 
 .skinMenu.favoriteMenu .skinMenuHeader, .favoriteMenu.registArea .skinMenuHeader {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s250ca41846.png') 0 -607px no-repeat;
-  height: 127px;
-  width: 510px;
+  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s0ded0b4385.png') 0 -274px no-repeat;
+  height: 58px;
+  width: 231px;
 }
 
 .skinMenu.profileMenu .skinMenuHeader, .profileMenu.registArea .skinMenuHeader, .skinMenu.calendarMenu .skinMenuHeader, .calendarMenu.registArea .skinMenuHeader, .skinMenu.themeMenu .skinMenuHeader, .themeMenu.registArea .skinMenuHeader, .skinMenu.recentEntriesMenu .skinMenuHeader, .recentEntriesMenu.registArea .skinMenuHeader, .skinMenu.readerMenu .skinMenuHeader, .readerMenu.registArea .skinMenuHeader, .skinMenu.favoriteMenu .skinMenuHeader, .favoriteMenu.registArea .skinMenuHeader, .freespaceArea.subModule .skinMenuHeader {
