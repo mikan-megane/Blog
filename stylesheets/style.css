@@ -1,6 +1,6 @@
 /*Header*/
 .skinHeaderFrame {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/hedaer-background.jpg') no-repeat center top;
+  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/header.jpg?1401094801') no-repeat center top;
   -webkit-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
@@ -10,7 +10,7 @@
 header {
   background: rgba(255, 255, 255, 0.7);
   position: fixed;
-  height: 100px;
+  height: 80px;
   width: 100%;
 }
 
@@ -21,7 +21,7 @@ header {
 
 .skinTitle {
   display: block;
-  height: 100px;
+  height: 80px;
   text-indent: -500px;
 }
 
