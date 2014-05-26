@@ -1,6 +1,6 @@
 /*Header*/
 .skinHeaderFrame {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/header.jpg?1401094801') no-repeat center top;
+  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/header.jpg?1401097616') no-repeat center top;
   -webkit-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
@@ -15,7 +15,7 @@ header {
 }
 
 .skinHeaderArea {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Title.png?1399229622') no-repeat left top;
+  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Title.png?1401096715') no-repeat left top;
   width: 100%;
 }
 
