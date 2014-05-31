@@ -8,7 +8,7 @@
 }
 
 header {
-  background: rgba(255, 255, 255, 0.7);
+  background: rgba(255, 255, 255, 0.4);
   position: fixed;
   height: 80px;
   width: 100%;
@@ -70,6 +70,10 @@ header {
   background: #fff;
   padding: 4px 14px 3px;
   margin: 0;
+}
+
+.skinContentsFrame {
+  background: #f2d3a7;
 }
 
 .skinArticle {
