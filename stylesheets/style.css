@@ -8,14 +8,14 @@
 }
 
 header {
-  background: rgba(255, 255, 255, 0.7);
+  background: rgba(255, 255, 255, 0.4);
   position: fixed;
   height: 80px;
   width: 100%;
 }
 
 .skinHeaderArea {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Title.png?1401096715') no-repeat left top;
+  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Title.png?1401514494') no-repeat left top;
   width: 100%;
 }
 
@@ -70,6 +70,10 @@ header {
   background: #fff;
   padding: 4px 14px 3px;
   margin: 0;
+}
+
+.skinContentsFrame {
+  background: #f2d3a7;
 }
 
 .skinArticle {
@@ -232,43 +236,43 @@ header {
 }
 
 .skinMenu.profileMenu .skinMenuHeader, .profileMenu.registArea .skinMenuHeader {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s0ded0b4385.png') 0 -162px no-repeat;
+  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s7d2f6acf0d.png') 0 -162px no-repeat;
   height: 55px;
   width: 229px;
 }
 
 .freespaceArea.subModule .skinMenuHeader {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s0ded0b4385.png') 0 -332px no-repeat;
+  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s7d2f6acf0d.png') 0 -332px no-repeat;
   height: 58px;
   width: 231px;
 }
 
 .skinMenu.calendarMenu .skinMenuHeader, .calendarMenu.registArea .skinMenuHeader {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s0ded0b4385.png') 0 -217px no-repeat;
+  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s7d2f6acf0d.png') 0 -217px no-repeat;
   height: 57px;
   width: 231px;
 }
 
 .skinMenu.themeMenu .skinMenuHeader, .themeMenu.registArea .skinMenuHeader {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s0ded0b4385.png') 0 0 no-repeat;
+  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s7d2f6acf0d.png') 0 0 no-repeat;
   height: 54px;
   width: 229px;
 }
 
 .skinMenu.recentEntriesMenu .skinMenuHeader, .recentEntriesMenu.registArea .skinMenuHeader {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s0ded0b4385.png') 0 -108px no-repeat;
+  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s7d2f6acf0d.png') 0 -108px no-repeat;
   height: 54px;
   width: 229px;
 }
 
 .skinMenu.readerMenu .skinMenuHeader, .readerMenu.registArea .skinMenuHeader {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s0ded0b4385.png') 0 -54px no-repeat;
+  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s7d2f6acf0d.png') 0 -54px no-repeat;
   height: 54px;
   width: 229px;
 }
 
 .skinMenu.favoriteMenu .skinMenuHeader, .favoriteMenu.registArea .skinMenuHeader {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s0ded0b4385.png') 0 -274px no-repeat;
+  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s7d2f6acf0d.png') 0 -274px no-repeat;
   height: 58px;
   width: 231px;
 }
