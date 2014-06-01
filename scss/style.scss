@@ -5,28 +5,6 @@
 @import "Article";
 @import "Sidebar";
 
-ul#amebaBar{//アメーババー
-	background:rgba(255,255,255,.8)
-}
-.barItem,.barMenu{//アメーババー 要らないものを消す
-	display: none !important;
-}
-#barLogoTop{//アメーバロゴ透明化
-	> a{
-		// background:image-url('logo_ameba_top.gif') no-repeat;
-		height: 15px;
-		width: 67px;
-		display: block;
-		margin: 3px 0 0 5px;
-		img{
-			display: none;
-		}
-	}
-	ul{
-		margin: -18px 0 0 72px;
-	}
-}
-
 .footerNav{//右下のあれ
 	background:rgba(255,255,255,.6);
 	padding: 3px;
