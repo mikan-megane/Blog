@@ -75,14 +75,17 @@
 }
 
 .skinContentsFrame {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/background.png?1309843076');
+  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/background.png?1318554858');
 }
 
 .skinArticle {
   border: none;
   background: rgba(255, 255, 255, 0.5);
   padding: 0 0 10px;
-  border: 1px dashed brown;
+}
+
+.skinArticleHeader2 {
+  margin-top: 10px;
 }
 
 .skinArticleHeader {
@@ -275,7 +278,7 @@
 .skinMenu.profileMenu .skinMenuHeader, .profileMenu.registArea .skinMenuHeader, .skinMenu.calendarMenu .skinMenuHeader, .calendarMenu.registArea .skinMenuHeader, .skinMenu.themeMenu .skinMenuHeader, .themeMenu.registArea .skinMenuHeader, .skinMenu.recentEntriesMenu .skinMenuHeader, .recentEntriesMenu.registArea .skinMenuHeader, .skinMenu.readerMenu .skinMenuHeader, .readerMenu.registArea .skinMenuHeader, .skinMenu.favoriteMenu .skinMenuHeader, .favoriteMenu.registArea .skinMenuHeader, .freespaceArea.subModule .skinMenuHeader {
   padding: 0;
   text-indent: -100px;
-  margin: 3px 5px;
+  margin: 5px 11px;
 }
 
 .profileMenu {
