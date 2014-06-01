@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 @charset "utf-8";
 
 @import "compass";
@@ -60,67 +59,4 @@ ul#amebaBar{//アメーババー
 display:none!important;
 }
 
-=======
-@charset "utf-8";
-
-@import "compass";
-@import "Header";
-@import "Article";
-@import "Sidebar";
-
-ul#amebaBar{//アメーババー
-	background:rgba(255,255,255,.8)
-}
-.barItem,.barMenu{//アメーババー 要らないものを消す
-	display: none !important;
-}
-#barLogoTop{//アメーバロゴ透明化
-	> a{
-		background:image-url('logo_ameba_top.gif') no-repeat;
-		height: 15px;
-		width: 67px;
-		display: block;
-		margin: 3px 0 0 5px;
-		img{
-			display: none;
-		}
-	}
-	ul{
-		margin: -18px 0 0 72px;
-	}
-}
-
-.footerNav{//右下のあれ
-	background:rgba(255,255,255,.6);
-	padding: 3px;
-	padding-bottom: 0;
-	li{
-		margin-bottom: 2px;
-	}
-	a,span{
-	background-image:image-url('footer_nav.png');
-	}
-}
-
-.skinMessageBoard{//メッセージボード
-	border:0;
-	margin-top: 10px;
-	background:rgba(255,255,255,.8)
-}
-
-.headerBnrArea{//ヘッダー広告　暫定削除
-	padding-bottom: 0;
-	height: 0;
-}
-
-.skinImgBtnS{//ブログトップ　記事一覧　画像一覧　のボタン
-	background-image: none;
-	background: rgba(255,255,255,.4);
-}
-
-#naviLink{//画像[拡大する]を消す
-display:none!important;
-}
-
->>>>>>> 633b3dd5325bf5aadee46a4a4efe35fd498022ad
 .skinFrame{padding-top:0;}
