@@ -1,343 +1,59 @@
-/*Header*/
-.skinHeaderFrame {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/header.jpg?1401608906') no-repeat center top;
-  -webkit-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  height: 330px;
-}
+/*
+Syntax error: Invalid Windows-31J character "\xE3"
+        on line 9 of D:/Users/mikan/Documents/Ameba/14-05/scss/style.scss
 
-.skinHeaderArea {
-  position: fixed;
-  z-index: 2000;
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/title-base.png?1401622667') no-repeat left top;
-  height: 262px;
-  width: 200px;
-  height: 330px;
-}
-
-.skinHeaderArea2 {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/title-1.png?1401610439') no-repeat 20px 31px;
-}
-
-.skinBlogHeadingGroupArea {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/title-2.png?1401610447') no-repeat 30px 105px;
-}
-
-.skinTitle {
-  display: block;
-  height: 262px;
-  width: 200px;
-  text-indent: -500px;
-}
-
-.skinDescriptionArea {
-  display: none;
-}
-
-.skinTitleArea, .skinBlogHeadingGroupArea {
-  padding: 0;
-}
-
-/*Article*/
-.userLinkArea {
-  margin: 5px 0 0;
-}
-
-.imagelistLink {
-  padding: 0 !important;
-}
-
-.skinPagingListColor {
-  padding: 0;
-}
-
-.pagingArea {
-  margin: 0 auto 10px;
-  padding: 5px;
-  background: rgba(255, 255, 255, 0.4);
-}
-
-.skinSimpleBtn, .skinSimpleBtn:focus, .skinSimpleBtn:hover, .skinSimpleBtn:visited {
-  -webkit-border-radius: 0;
-  -moz-border-radius: 0;
-  -ms-border-radius: 0;
-  -o-border-radius: 0;
-  border-radius: 0;
-  border: none;
-  margin-top: 5px;
-}
-
-.pagingList {
-  background: #fff;
-  padding: 4px 14px 3px;
-  margin: 0;
-}
-
-.skinContentsFrame {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/background.png?1318554858');
-}
-
-.skinArticle {
-  border: none;
-  background: rgba(255, 255, 255, 0.5);
-  padding: 0 0 10px;
-}
-
-.skinArticleHeader2 {
-  margin-top: 10px;
-}
-
-.skinArticleHeader {
-  padding: 0;
-  border: none;
-  margin-top: 5px;
-}
-
-.skinArticleTitle, .skinArticleTitle:hover, .skinArticleTitle:focus {
-  font-size: 1.8em;
-}
-
-.articleDetailArea {
-  padding: 0;
-  color: #646464;
-}
-
-.skinArticleBody2 {
-  margin: 0 15px;
-}
-.skinArticleBody2 .pagingArea.entryPaging {
-  display: none;
-}
-
-.articleText {
-  background: #fff;
-  padding: 10px 10px;
-  margin-top: 5px;
-}
-.articleText a {
-  text-decoration: underline;
-}
-
-#ArticleFooter a {
-  float: left;
-  overflow: hidden;
-  display: block;
-  height: 161.2px;
-  width: 146.4px;
-}
-
-#ArticleFooterimg {
-  margin-left: 75px;
-}
-
-.rank img {
-  margin-left: 0;
-}
-
-.mura img {
-  margin-left: -146.4px;
-}
-
-.peta img {
-  margin-left: -292.8px;
-}
-
-.rank img:hover, .mura img:hover, .peta img:hover {
-  margin-top: -161.2px;
-}
-
-.skinArticleFooter {
-  border-top: 0;
-  margin: 0 auto;
-}
-
-.articleThemeListArea {
-  margin: 5px 0;
-}
-
-.articleImageListArea {
-  margin: 0;
-}
-
-/*Sidebar*/
-.centerTextLink {
-  -webkit-border-radius: 0;
-  -moz-border-radius: 0;
-  -ms-border-radius: 0;
-  -o-border-radius: 0;
-  border-radius: 0;
-  background: rgba(255, 255, 255, 0.4);
-  border: none;
-  margin-bottom: 33px;
-}
-
-.userProfileImage {
-  -webkit-border-radius: 17px;
-  -moz-border-radius: 17px;
-  -ms-border-radius: 17px;
-  -o-border-radius: 17px;
-  border-radius: 17px;
-  border: 0;
-}
-
-.freespaceArea.subModule {
-  margin-bottom: 0;
-}
-.freespaceArea.subModule .skinMenu2 {
-  padding-top: 3px;
-}
-.freespaceArea.subModule .skinMenuBody {
-  background: #fff;
-  padding: 10px 10px 0;
-  margin: 0 10px;
-}
-
-.plugin {
-  margin-bottom: 10px;
-  padding-bottom: 10px;
-}
-
-.nicotan {
-  background: #fff;
-  padding: 10px;
-  margin: 0 10px;
-}
-
-.skinMenu, .registArea, .freespaceArea.subModule, .plugin {
-  background: rgba(255, 255, 255, 0.4);
-}
-
-.skinMenuBody {
-  margin: 0 10px 10px;
-}
-.skinMenuBody #ArticleFooter {
-  display: none;
-}
-
-.blogSearchForm {
-  margin: 0 0 10px;
-}
-
-.registArea {
-  padding: 10px;
-  margin: 0 0 10px;
-}
-
-.registBtnArea {
-  margin: 0;
-}
-
-.skinImgBtnM {
-  background: #fff;
-  width: 280px;
-}
-
-.skinMenu.profileMenu .skinMenuHeader, .profileMenu.registArea .skinMenuHeader {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s0846d9c175.png') 0 -131px no-repeat;
-  height: 44px;
-  width: 183px;
-}
-
-.freespaceArea.subModule .skinMenuHeader {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s0846d9c175.png') 0 -220px no-repeat;
-  height: 46px;
-  width: 185px;
-}
-
-.skinMenu.calendarMenu .skinMenuHeader, .calendarMenu.registArea .skinMenuHeader {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s0846d9c175.png') 0 -175px no-repeat;
-  height: 45px;
-  width: 185px;
-}
-
-.skinMenu.themeMenu .skinMenuHeader, .themeMenu.registArea .skinMenuHeader {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s0846d9c175.png') 0 -87px no-repeat;
-  height: 44px;
-  width: 183px;
-}
-
-.skinMenu.recentEntriesMenu .skinMenuHeader, .recentEntriesMenu.registArea .skinMenuHeader {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s0846d9c175.png') 0 -43px no-repeat;
-  height: 44px;
-  width: 183px;
-}
-
-.skinMenu.readerMenu .skinMenuHeader, .readerMenu.registArea .skinMenuHeader {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s0846d9c175.png') 0 0 no-repeat;
-  height: 43px;
-  width: 184px;
-}
-
-.skinMenu.favoriteMenu .skinMenuHeader, .favoriteMenu.registArea .skinMenuHeader {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Sprite-s0846d9c175.png') 0 -266px no-repeat;
-  height: 47px;
-  width: 185px;
-}
-
-.skinMenu.profileMenu .skinMenuHeader, .profileMenu.registArea .skinMenuHeader, .skinMenu.calendarMenu .skinMenuHeader, .calendarMenu.registArea .skinMenuHeader, .skinMenu.themeMenu .skinMenuHeader, .themeMenu.registArea .skinMenuHeader, .skinMenu.recentEntriesMenu .skinMenuHeader, .recentEntriesMenu.registArea .skinMenuHeader, .skinMenu.readerMenu .skinMenuHeader, .readerMenu.registArea .skinMenuHeader, .skinMenu.favoriteMenu .skinMenuHeader, .favoriteMenu.registArea .skinMenuHeader, .freespaceArea.subModule .skinMenuHeader {
-  padding: 0;
-  text-indent: -100px;
-  margin: 5px 11px;
-}
-
-.profileMenu {
-  margin-top: 92px;
-}
-
-ul#amebaBar {
-  background: rgba(255, 255, 255, 0.8);
-}
-
-.barItem, .barMenu {
-  display: none !important;
-}
-
-#barLogoTop > a {
-  height: 15px;
-  width: 67px;
-  display: block;
-  margin: 3px 0 0 5px;
-}
-#barLogoTop > a img {
-  display: none;
-}
-#barLogoTop ul {
-  margin: -18px 0 0 72px;
-}
-
-.footerNav {
-  background: rgba(255, 255, 255, 0.6);
-  padding: 3px;
-  padding-bottom: 0;
-}
-.footerNav li {
-  margin-bottom: 2px;
-}
-.footerNav a, .footerNav span {
-  background-image: url('https://rawgit.com/mikan-megane/Blog-test/master/images/footer_nav.png?1384220620');
-}
-
-.skinMessageBoard {
-  border: 0;
-  margin-top: 10px;
-  background: rgba(255, 255, 255, 0.8);
-}
-
-.headerBnrArea {
-  padding-bottom: 0;
-  height: 0;
-}
-
-.skinImgBtnS {
-  background-image: none;
-  background: rgba(255, 255, 255, 0.4);
-}
-
-#naviLink {
-  display: none !important;
-}
-
-.skinFrame {
-  padding-top: 0;
-}
+Backtrace:
+D:/Users/mikan/Documents/Ameba/14-05/scss/style.scss:9
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/sass-3.2.19/lib/sass/engine.rb:373:in `block in check_encoding!'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/sass-3.2.19/lib/sass/util.rb:604:in `rescue in block in check_encoding'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/sass-3.2.19/lib/sass/util.rb:601:in `block in check_encoding'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/sass-3.2.19/lib/sass/util.rb:600:in `each'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/sass-3.2.19/lib/sass/util.rb:600:in `each_with_index'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/sass-3.2.19/lib/sass/util.rb:600:in `check_encoding'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/sass-3.2.19/lib/sass/util.rb:654:in `check_sass_encoding'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/sass-3.2.19/lib/sass/engine.rb:372:in `check_encoding!'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/sass-3.2.19/lib/sass/engine.rb:339:in `_to_tree'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/sass-3.2.19/lib/sass/engine.rb:315:in `_render'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/sass-3.2.19/lib/sass/engine.rb:262:in `render'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/compass-0.12.6/lib/compass/compiler.rb:139:in `block (2 levels) in compile'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/compass-0.12.6/lib/compass/compiler.rb:126:in `timed'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/compass-0.12.6/lib/compass/compiler.rb:138:in `block in compile'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/compass-0.12.6/lib/compass/logger.rb:45:in `red'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/compass-0.12.6/lib/compass/compiler.rb:137:in `compile'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/compass-0.12.6/lib/compass/compiler.rb:118:in `compile_if_required'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/compass-0.12.6/lib/compass/compiler.rb:103:in `block (2 levels) in run'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/compass-0.12.6/lib/compass/compiler.rb:101:in `each'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/compass-0.12.6/lib/compass/compiler.rb:101:in `block in run'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/compass-0.12.6/lib/compass/compiler.rb:126:in `timed'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/compass-0.12.6/lib/compass/compiler.rb:100:in `run'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/compass-0.12.6/lib/compass/commands/watch_project.rb:147:in `recompile'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/fssm-0.2.10/lib/fssm/path.rb:73:in `call'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/fssm-0.2.10/lib/fssm/path.rb:73:in `run_callback'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/fssm-0.2.10/lib/fssm/path.rb:55:in `callback_action'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/fssm-0.2.10/lib/fssm/path.rb:35:in `update'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/fssm-0.2.10/lib/fssm/state/directory.rb:39:in `block in modified'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/fssm-0.2.10/lib/fssm/state/directory.rb:37:in `each'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/fssm-0.2.10/lib/fssm/state/directory.rb:37:in `modified'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/fssm-0.2.10/lib/fssm/state/directory.rb:18:in `refresh'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/fssm-0.2.10/lib/fssm/backends/polling.rb:17:in `block (2 levels) in run'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/fssm-0.2.10/lib/fssm/backends/polling.rb:17:in `each'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/fssm-0.2.10/lib/fssm/backends/polling.rb:17:in `block in run'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/fssm-0.2.10/lib/fssm/backends/polling.rb:15:in `loop'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/fssm-0.2.10/lib/fssm/backends/polling.rb:15:in `run'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/fssm-0.2.10/lib/fssm/monitor.rb:26:in `run'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/fssm-0.2.10/lib/fssm.rb:70:in `monitor'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/compass-0.12.6/lib/compass/commands/watch_project.rb:87:in `perform'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/compass-0.12.6/lib/compass/commands/base.rb:18:in `execute'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/compass-0.12.6/lib/compass/commands/project_base.rb:19:in `execute'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/compass-0.12.6/lib/compass/exec/sub_command_ui.rb:43:in `perform!'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/compass-0.12.6/lib/compass/exec/sub_command_ui.rb:15:in `run!'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/compass-0.12.6/bin/compass:30:in `block in <top (required)>'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/compass-0.12.6/bin/compass:44:in `call'
+D:/Ruby200/lib/ruby/gems/2.0.0/gems/compass-0.12.6/bin/compass:44:in `<top (required)>'
+D:/Ruby200/bin/compass:23:in `load'
+D:/Ruby200/bin/compass:23:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Syntax error: Invalid Windows-31J character \"\xE3\"\A         on line 9 of D:/Users/mikan/Documents/Ameba/14-05/scss/style.scss"; }

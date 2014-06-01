@@ -15,6 +15,7 @@
 </script>
 <!--[if lt IE 9]>
 <script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+<<<<<<< HEAD
 <![endif]-->
 <script type="text/javascript">
 $(function(){
@@ -32,3 +33,6 @@ $(function(){
 <script type="text/javascript">
 $('.skinHeaderFrame').parallax({ speed: 0.5, axis: 'y'});
 </script>
+=======
+<![endif]-->
+>>>>>>> 633b3dd5325bf5aadee46a4a4efe35fd498022ad

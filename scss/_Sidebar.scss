@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @charset "utf-8";
 
 /*Sidebar*/
@@ -93,4 +94,101 @@ $image: sprite-map("Sprite/*.png",$layout: smart);
 }
 .profileMenu{
 	margin-top:92px;
+=======
+@charset "utf-8";
+
+/*Sidebar*/
+$image: sprite-map("Sprite/*.png",$layout: smart); 
+@mixin splite($spname) {
+	background: sprite($image,$spname) no-repeat;
+	@include sprite-dimensions($image, $spname);
+}
+
+.centerTextLink{//広告
+	@include border-radius(0);
+	background:rgba(255,255,255,0.4);
+	border:none;
+	margin-bottom: 33px;
+}
+.userProfileImage{//プロフ画像丸く
+	@include border-radius(17px);
+	border: 0;
+}
+.freespaceArea.subModule{//にこのプロフィール
+	margin-bottom: 0;
+	.skinMenu2{
+		padding-top:3px;
+	}
+	.skinMenuBody{
+		background:#fff;
+		padding:10px 10px 0;
+		margin:0 10px;
+	}
+}
+.plugin{
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+}
+.nicotan{
+		background:#fff;
+		padding:10px;
+		margin:0 10px;
+}
+.skinMenu,.freespaceArea.subModule,.plugin{//背景
+	background: rgba(255,255,255,0.4);
+}
+.skinMenuBody{//要素
+	margin: 0 10px 10px;
+	#ArticleFooter{
+		display:none;
+	}
+}
+.blogSearchForm{//検索
+	margin:0 0 10px;
+}
+.registArea {//登録背景
+	@extend .skinMenu;
+	padding:10px;
+	margin:0 0 10px;
+}
+.registBtnArea{
+	margin:0;
+}
+.skinImgBtnM{//登録
+	background:#fff;
+	width:280px;
+}
+
+
+.skinMenu.profileMenu .skinMenuHeader{
+	@include splite(Profile);
+}
+.freespaceArea.subModule .skinMenuHeader{
+	@include splite(Nico_Profile);
+}
+.skinMenu.calendarMenu .skinMenuHeader{
+	@include splite(Calender);
+}
+.skinMenu.themeMenu .skinMenuHeader{
+	@include splite(Theme);
+}
+.skinMenu.recentEntriesMenu .skinMenuHeader{
+	@include splite(New_article);
+}
+.skinMenu.readerMenu .skinMenuHeader{
+	@include splite(Reader);
+}
+.skinMenu.favoriteMenu .skinMenuHeader{
+	@include splite(Favorite);
+}
+.skinMenu.profileMenu,.skinMenu.calendarMenu,.skinMenu.themeMenu,.skinMenu.recentEntriesMenu,.skinMenu.readerMenu,.skinMenu.favoriteMenu,.freespaceArea.subModule{
+		.skinMenuHeader{
+		padding:0;
+		text-indent: -100px;
+		margin: 3px 5px;
+		}
+}
+.profileMenu{
+	margin-top:92px;
+>>>>>>> 633b3dd5325bf5aadee46a4a4efe35fd498022ad
 }
