@@ -1,24 +1,11 @@
 <script type="text/javascript">
-$(function(){
-	$(window).scroll(function(){
-		if ($(this).scrollTop() > 100) {
-			$('#box1').animate({
-				'top': '500px'
-			},{
-				'duration': 600,
-				'easing': 'swing'
-			});
-			// $('#ambHeader').fadeOut();
-		}
-		else {
-			$('#box1').animate({
-				'top': '0px'
-			},{
-				'duration': 600,
-				'easing': 'swing'
-			});
-			// $('#ambHeader').fadeIn();
+(function($){
+	$(window).scroll(function () {
+		if ($(this).scrollTop() > 200) {
+			$("#ambHeader").stop().animate({"top": "-30px"}, 100);
+		} else {
+			$("#ambHeader").stop().animate({"top": "0px"}, 100);
 		}
 	});
-});
+}(jQuery));
 </script>

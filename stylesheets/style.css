@@ -1,6 +1,6 @@
 /*Header*/
 .skinHeaderFrame {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/header.jpg?1401606640') no-repeat center top;
+  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/header.jpg?1401608906') no-repeat center top;
   -webkit-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
@@ -9,13 +9,21 @@
 
 .skinHeaderArea {
   position: fixed;
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/Title.png?1401605574') no-repeat left top;
-  width: 100%;
+  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/title-base.png?1401610422') no-repeat left top;
+  height: 262px;
+  width: 200px;
   height: 330px;
 }
 
+.skinHeaderArea2 {
+  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/title-1.png?1401610439') no-repeat left top;
+}
+
+.skinBlogHeadingGroupArea {
+  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/title-2.png?1401610447') no-repeat left top;
+}
+
 .skinTitle {
-  position: absolute;
   display: block;
   height: 262px;
   width: 200px;
@@ -24,10 +32,6 @@
 
 .skinDescriptionArea {
   display: none;
-}
-
-.articleDetailArea {
-  margin-left: 60px;
 }
 
 .skinTitleArea, .skinBlogHeadingGroupArea {
@@ -70,19 +74,20 @@
 }
 
 .skinContentsFrame {
-  background: #f2d3a7 url('https://rawgit.com/mikan-megane/Blog-test/master/images/background.png?1309843076');
+  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/background.png?1309843076');
 }
 
 .skinArticle {
   border: none;
   background: rgba(255, 255, 255, 0.5);
   padding: 0 0 10px;
+  border: 1px dashed brown;
 }
 
 .skinArticleHeader {
-  margin: 0 75px;
   padding: 0;
   border: none;
+  margin-top: 5px;
 }
 
 .skinArticleTitle, .skinArticleTitle:hover, .skinArticleTitle:focus {
@@ -136,14 +141,6 @@
 
 .rank img:hover, .mura img:hover, .peta img:hover {
   margin-top: -161.2px;
-}
-
-.skinArticle3 {
-  padding-top: 13px;
-}
-
-.skinArticle.themeNumber10073685232 .detailOn img {
-  width: 450px;
 }
 
 .skinArticleFooter {

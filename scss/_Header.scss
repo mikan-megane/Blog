@@ -2,6 +2,8 @@
 
 /*Header*/
 $header: 330px;
+$title-height:262px;
+$title-width:200px;
 .skinHeaderFrame{
 	background:image-url('header.jpg') no-repeat center top;
 	-webkit-background-size: cover;-o-background-size: cover; background-size: cover;
@@ -13,22 +15,25 @@ $header: 330px;
 // }
 .skinHeaderArea{//クリック範囲-横幅
 	position: fixed;
-	background:image-url('Title.png') no-repeat left top;
-	width:100%;
+	background:image-url('title-base.png') no-repeat left top;
+	height: $title-height;
+	width: $title-width;
 	height: $header;
 }
+.skinHeaderArea2{
+	background: image-url('title-1.png') no-repeat left top;
+}
+.skinBlogHeadingGroupArea{
+	background: image-url('title-2.png') no-repeat left top;
+}
 .skinTitle{//クリック範囲,非表示
-	position: absolute;
 	display:block;
-	height: 262px;
-	width: 200px;
+	height: $title-height;
+	width: $title-width;
 	text-indent: -500px;
 }
 .skinDescriptionArea{//非表示 - ブログの説明
 	display: none;
-}
-.articleDetailArea{//ブログの説明
-	margin-left: 60px;
 }
 .skinTitleArea,.skinBlogHeadingGroupArea{//ズレ防止
 	padding: 0;
