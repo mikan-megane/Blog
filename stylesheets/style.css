@@ -9,6 +9,7 @@
 
 .skinHeaderArea {
   position: fixed;
+  z-index: 2000;
   background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/title-base.png?1401610422') no-repeat left top;
   height: 262px;
   width: 200px;
@@ -16,11 +17,11 @@
 }
 
 .skinHeaderArea2 {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/title-1.png?1401610439') no-repeat left top;
+  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/title-1.png?1401610439') no-repeat 20px 31px;
 }
 
 .skinBlogHeadingGroupArea {
-  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/title-2.png?1401610447') no-repeat left top;
+  background: url('https://rawgit.com/mikan-megane/Blog-test/master/images/title-2.png?1401610447') no-repeat 30px 105px;
 }
 
 .skinTitle {
