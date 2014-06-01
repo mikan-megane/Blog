@@ -2,10 +2,22 @@
 $(function(){
 	$(window).scroll(function(){
 		if ($(this).scrollTop() > 100) {
-			$('#ambHeader').fadeOut();
+			$('#box1').animate({
+				'top': '500px'
+			},{
+				'duration': 600,
+				'easing': 'swing'
+			});
+			// $('#ambHeader').fadeOut();
 		}
 		else {
-			$('#ambHeader').fadeIn();
+			$('#box1').animate({
+				'top': '0px'
+			},{
+				'duration': 600,
+				'easing': 'swing'
+			});
+			// $('#ambHeader').fadeIn();
 		}
 	});
 });

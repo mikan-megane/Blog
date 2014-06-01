@@ -2,14 +2,13 @@
 
 /*Header*/
 $header: 330px;
-$title:80px;
+$title:262px;
 .skinHeaderFrame{
 	background:image-url('header.jpg') no-repeat center top;
 	-webkit-background-size: cover;-o-background-size: cover; background-size: cover;
 	height: $header;
 }
 header {
-	background: rgba(255,255,255,.4);
 	position: fixed;
 	height: $title;
 	width: 100%;
@@ -17,6 +16,7 @@ header {
 .skinHeaderArea{//クリック範囲-横幅
 	background:image-url('Title.png') no-repeat left top;
 	width:100%;
+	height: $title;
 }
 .skinTitle{//クリック範囲,非表示
 	display:block;
