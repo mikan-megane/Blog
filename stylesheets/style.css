@@ -18,7 +18,8 @@
 
 .skinHeaderArea2 {
   position: relative;
-  background: url('https://rawgit.com/mikan-megane/Blog/master/images/title-1.png?1401629298') no-repeat 20px 31px;
+  background: url('https://rawgit.com/mikan-megane/Blog/master/images/title-1.png?1401629298') no-repeat 11px 31px;
+  background-size: 88%;
 }
 
 .skinBlogHeadingGroupArea {
@@ -57,7 +58,7 @@
 .pagingArea {
   margin: 0 auto 10px;
   padding: 5px;
-  background: rgba(255, 255, 255, 0.4);
+  background: rgba(255, 255, 255, 0.3);
 }
 
 .skinSimpleBtn, .skinSimpleBtn:focus, .skinSimpleBtn:hover, .skinSimpleBtn:visited {
@@ -121,32 +122,38 @@
   text-decoration: underline;
 }
 
-#ArticleFooter a {
-  float: left;
-  overflow: hidden;
+.ArticleFooter {
+  height: 143px;
+  width: 400px;
+  margin: 0 auto;
+}
+.ArticleFooter a {
   display: block;
-  height: 161.2px;
-  width: 146.4px;
+  width: 200px;
+  height: 143px;
 }
 
-#ArticleFooterimg {
-  margin-left: 75px;
+.Articlemura {
+  background: url('https://rawgit.com/mikan-megane/Blog/master/images/footer.gif?1401629298');
+  background-position: 0 0;
+  width: 200px;
+  height: 143px;
+}
+.Articlemura:hover {
+  background-position: 0 143px;
 }
 
-.rank img {
-  margin-left: 0;
+.Articlerank {
+  background: url('https://rawgit.com/mikan-megane/Blog/master/images/footer.gif?1401629298');
+  background-position: 200px 0;
+  width: 200px;
+  height: 143px;
+  top: -143px;
+  left: 200px;
+  position: relative;
 }
-
-.mura img {
-  margin-left: -146.4px;
-}
-
-.peta img {
-  margin-left: -292.8px;
-}
-
-.rank img:hover, .mura img:hover, .peta img:hover {
-  margin-top: -161.2px;
+.Articlerank:hover {
+  background-position: 200px 143px;
 }
 
 .skinArticleFooter {
@@ -169,7 +176,7 @@
   -ms-border-radius: 0;
   -o-border-radius: 0;
   border-radius: 0;
-  background: rgba(255, 255, 255, 0.4);
+  background: rgba(255, 255, 255, 0.3);
   border: none;
   margin-bottom: 33px;
 }
@@ -207,7 +214,7 @@
 }
 
 .skinMenu, .registArea, .freespaceArea.subModule, .plugin {
-  background: rgba(255, 255, 255, 0.4);
+  background: rgba(255, 255, 255, 0.3);
 }
 
 .skinMenuBody {
@@ -312,7 +319,7 @@
 
 .skinImgBtnS {
   background-image: none;
-  background: rgba(255, 255, 255, 0.4);
+  background: rgba(255, 255, 255, 0.3);
 }
 
 #naviLink {
