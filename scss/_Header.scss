@@ -9,27 +9,21 @@ $title-width:200px;
 	-webkit-background-size: cover;-o-background-size: cover; background-size: cover;
 	height: $header;
 }
-// header {
-// 	height: $header;
-// 	width: 100%;
-// }
 .skinHeaderArea{//クリック範囲-横幅
 	position: fixed;
-	z-index: 2000;
+	z-index: 1999;
 	background:image-url('title-base.png') no-repeat left top;
 	height: $title-height;
 	width: $title-width;
 	height: $header;
 }
 .skinHeaderArea2{
+	position: relative;
 	background: image-url('title-1.png') no-repeat 20px 31px;
-	// margin-top: 31px;
-	// margin-left: 20px;
 }
 .skinBlogHeadingGroupArea{
+	position: relative;
 	background: image-url('title-2.png') no-repeat 30px 105px;
-	// margin-top: 105px - 31px;
-	// margin-left: 30px - 20px;
 }
 .skinTitle{//クリック範囲,非表示
 	display:block;

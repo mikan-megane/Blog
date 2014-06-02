@@ -9,7 +9,7 @@
 
 .skinHeaderArea {
   position: fixed;
-  z-index: 2000;
+  z-index: 1999;
   background: url('https://rawgit.com/mikan-megane/Blog/master/images/title-base.png?1401629298') no-repeat left top;
   height: 262px;
   width: 200px;
@@ -17,10 +17,12 @@
 }
 
 .skinHeaderArea2 {
+  position: relative;
   background: url('https://rawgit.com/mikan-megane/Blog/master/images/title-1.png?1401629298') no-repeat 20px 31px;
 }
 
 .skinBlogHeadingGroupArea {
+  position: relative;
   background: url('https://rawgit.com/mikan-megane/Blog/master/images/title-2.png?1401629298') no-repeat 30px 105px;
 }
 
@@ -277,7 +279,7 @@
 
 .skinMenu.profileMenu .skinMenuHeader, .profileMenu.registArea .skinMenuHeader, .skinMenu.calendarMenu .skinMenuHeader, .calendarMenu.registArea .skinMenuHeader, .skinMenu.themeMenu .skinMenuHeader, .themeMenu.registArea .skinMenuHeader, .skinMenu.recentEntriesMenu .skinMenuHeader, .recentEntriesMenu.registArea .skinMenuHeader, .skinMenu.readerMenu .skinMenuHeader, .readerMenu.registArea .skinMenuHeader, .skinMenu.favoriteMenu .skinMenuHeader, .favoriteMenu.registArea .skinMenuHeader, .freespaceArea.subModule .skinMenuHeader {
   padding: 0;
-  text-indent: -100px;
+  text-indent: -150px;
   margin: 5px 11px;
 }
 
