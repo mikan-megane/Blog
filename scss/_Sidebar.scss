@@ -37,7 +37,7 @@ $image: sprite-map("Sprite/*.png",$layout: smart);
 		padding:10px;
 		margin:0 10px;
 }
-.skinMenu,.freespaceArea.subModule,.plugin{//背景
+.skinMenu,.freespaceArea.subModule{//背景
 	background: rgba(255,255,255,0.3);
 }
 .skinMenuBody{//要素
@@ -93,4 +93,8 @@ $image: sprite-map("Sprite/*.png",$layout: smart);
 }
 .profileMenu{
 	margin-top:92px;
+}
+
+.freespaceArea .ArticleFooter{
+	display: none;
 }

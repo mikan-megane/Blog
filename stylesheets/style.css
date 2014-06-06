@@ -213,7 +213,7 @@
   margin: 0 10px;
 }
 
-.skinMenu, .registArea, .freespaceArea.subModule, .plugin {
+.skinMenu, .registArea, .freespaceArea.subModule {
   background: rgba(255, 255, 255, 0.3);
 }
 
@@ -292,6 +292,10 @@
 
 .profileMenu {
   margin-top: 92px;
+}
+
+.freespaceArea .ArticleFooter {
+  display: none;
 }
 
 .footerNav {
