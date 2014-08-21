@@ -1,6 +1,6 @@
 /*Header*/
 .skinHeaderFrame {
-  background: url('https://rawgit.com/mikan-megane/Blog/master/images/header.jpg?1401629298') no-repeat center top;
+  background: url('https://rawgit.com/mikan-megane/Blog/master/images/header.jpg?1408528090') no-repeat center top;
   -webkit-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
@@ -10,7 +10,7 @@
 .skinHeaderArea {
   position: fixed;
   z-index: 1999;
-  background: url('https://rawgit.com/mikan-megane/Blog/master/images/title-base.png?1401629298') no-repeat left top;
+  background: url('https://rawgit.com/mikan-megane/Blog/master/images/title-base.png?1408528090') no-repeat left top;
   height: 262px;
   width: 200px;
   height: 330px;
@@ -18,13 +18,13 @@
 
 .skinHeaderArea2 {
   position: relative;
-  background: url('https://rawgit.com/mikan-megane/Blog/master/images/title-1.png?1401629298') no-repeat 11px 31px;
+  background: url('https://rawgit.com/mikan-megane/Blog/master/images/title-1.png?1408528090') no-repeat 11px 31px;
   background-size: 88%;
 }
 
 .skinBlogHeadingGroupArea {
   position: relative;
-  background: url('https://rawgit.com/mikan-megane/Blog/master/images/title-2.png?1401629298') no-repeat 30px 105px;
+  background: url('https://rawgit.com/mikan-megane/Blog/master/images/title-2.png?1408528090') no-repeat 30px 105px;
 }
 
 .skinTitle {
@@ -62,10 +62,8 @@
 }
 
 .skinSimpleBtn, .skinSimpleBtn:focus, .skinSimpleBtn:hover, .skinSimpleBtn:visited {
-  -webkit-border-radius: 0;
   -moz-border-radius: 0;
-  -ms-border-radius: 0;
-  -o-border-radius: 0;
+  -webkit-border-radius: 0;
   border-radius: 0;
   border: none;
   margin-top: 5px;
@@ -78,7 +76,7 @@
 }
 
 .skinContentsFrame {
-  background: url('https://rawgit.com/mikan-megane/Blog/master/images/background.png?1401629303');
+  background: url('https://rawgit.com/mikan-megane/Blog/master/images/background.png?1408528090');
 }
 
 .skinArticle {
@@ -134,7 +132,7 @@
 }
 
 .Articlemura {
-  background: url('https://rawgit.com/mikan-megane/Blog/master/images/footer.gif?1401629298');
+  background: url('https://rawgit.com/mikan-megane/Blog/master/images/footer.gif?1408528090');
   background-position: 0 0;
   width: 200px;
   height: 143px;
@@ -144,7 +142,7 @@
 }
 
 .Articlerank {
-  background: url('https://rawgit.com/mikan-megane/Blog/master/images/footer.gif?1401629298');
+  background: url('https://rawgit.com/mikan-megane/Blog/master/images/footer.gif?1408528090');
   background-position: 200px 0;
   width: 200px;
   height: 143px;
@@ -171,10 +169,8 @@
 
 /*Sidebar*/
 .centerTextLink {
-  -webkit-border-radius: 0;
   -moz-border-radius: 0;
-  -ms-border-radius: 0;
-  -o-border-radius: 0;
+  -webkit-border-radius: 0;
   border-radius: 0;
   background: rgba(255, 255, 255, 0.3);
   border: none;
@@ -182,10 +178,8 @@
 }
 
 .userProfileImage {
-  -webkit-border-radius: 17px;
   -moz-border-radius: 17px;
-  -ms-border-radius: 17px;
-  -o-border-radius: 17px;
+  -webkit-border-radius: 17px;
   border-radius: 17px;
   border: 0;
 }
@@ -307,7 +301,7 @@
   margin-bottom: 2px;
 }
 .footerNav a, .footerNav span {
-  background-image: url('https://rawgit.com/mikan-megane/Blog/master/images/footer_nav.png?1384220620');
+  background-image: url('https://rawgit.com/mikan-megane/Blog/master/images/footer_nav.png?1408528090');
 }
 
 .skinMessageBoard {
