@@ -207,7 +207,7 @@
   margin: 0 10px;
 }
 
-.skinMenu, .registArea, .freespaceArea.subModule {
+.skinMenu, .registArea, .freespaceArea.subModule, .plugin {
   background: rgba(255, 255, 255, 0.3);
 }
 
@@ -225,6 +225,9 @@
 .registArea {
   padding: 10px;
   margin: 0 0 10px;
+}
+.registArea .skinMenu, .registArea .registArea {
+  margin: 0;
 }
 
 .registBtnArea {
@@ -289,6 +292,10 @@
 }
 
 .freespaceArea .ArticleFooter {
+  display: none;
+}
+
+.skinMenu .adMenu .skinMenu2, .registArea .adMenu .skinMenu2 {
   display: none;
 }
 

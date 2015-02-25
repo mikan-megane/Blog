@@ -37,7 +37,7 @@ $image: sprite-map("Sprite/*.png",$layout: smart);
 		padding:10px;
 		margin:0 10px;
 }
-.skinMenu,.freespaceArea.subModule{//背景
+.skinMenu,.freespaceArea.subModule,.plugin{//背景
 	background: rgba(255,255,255,0.3);
 }
 .skinMenuBody{//要素
@@ -53,6 +53,9 @@ $image: sprite-map("Sprite/*.png",$layout: smart);
 	@extend .skinMenu;
 	padding:10px;
 	margin:0 0 10px;
+	.skinMenu{
+		margin: 0;
+	}
 }
 .registBtnArea{
 	margin:0;
@@ -97,4 +100,10 @@ $image: sprite-map("Sprite/*.png",$layout: smart);
 
 .freespaceArea .ArticleFooter{
 	display: none;
+}
+
+.skinMenu .adMenu { //-----------Ameba登録ボタンの下に[にこプロフィール]が表示される問題を臨時的に対応----------
+	.skinMenu2{
+		display: none;
+	}
 }
