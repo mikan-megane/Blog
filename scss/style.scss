@@ -1,36 +1,36 @@
 @charset "utf-8";
 
-@import "compass";
-@import "Header";
-@import "Article";
-@import "Sidebar";
+@import 'compass';
+@import 'Header';
+@import 'Article';
+@import 'Sidebar';
 
 .footerNav{//右下のあれ
-	background:rgba(255,255,255,.6);
-	padding: 3px;
-	padding-bottom: 0;
-	li{
-		margin-bottom: 2px;
-	}
-	a,span{
-	background-image:image-url('footer_nav.png');
-	}
+  background:rgba(255,255,255,.6);
+  padding: 3px;
+  padding-bottom: 0;
+  li{
+    margin-bottom: 2px;
+  }
+  a,span{
+  background-image:image-url('footer_nav.png');
+  }
 }
 
 .skinMessageBoard{//メッセージボード
-	border:0;
-	margin-top: 10px;
-	background:rgba(255,255,255,.8)
+  border:0;
+  margin-top: 10px;
+  background:rgba(255,255,255,.8)
 }
 
 .headerBnrArea{//ヘッダー広告　暫定削除
-	padding-bottom: 0;
-	height: 0;
+  padding-bottom: 0;
+  height: 0;
 }
 
 .skinImgBtnS{//ブログトップ　記事一覧　画像一覧　のボタン
-	background-image: none;
-	background: rgba(255,255,255,.3);
+  background-image: none;
+  background: rgba(255,255,255,.3);
 }
 
 #naviLink{//画像[拡大する]を消す
