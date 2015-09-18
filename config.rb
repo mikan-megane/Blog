@@ -1,7 +1,7 @@
 # Require any additional compass plugins here.
 
 # Set this to the root of your project when deployed:
-http_path = "https://rawgit.com/mikan-megane/Blog/master/"
+http_path = "https://cdn.rawgit.com/mikan-megane/Blog/master/"
 css_dir = "stylesheets"
 sass_dir = "scss"
 images_dir = "images"
