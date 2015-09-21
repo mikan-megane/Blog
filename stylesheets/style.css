@@ -314,6 +314,10 @@ img[id^="mmimg"] {
   display: none;
 }
 
+#parts_frame {
+  margin: 10px 25px 0px;
+}
+
 .footerNav {
   background: rgba(255, 255, 255, 0.6);
   padding: 3px;

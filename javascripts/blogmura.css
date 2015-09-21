@@ -1,0 +1,3 @@
+#itemlist tr:nth-child(n+11){
+	display: none;
+}
