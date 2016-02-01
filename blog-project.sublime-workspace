@@ -1,0 +1,1325 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get_he",
+				"get_header"
+			],
+			[
+				"e",
+				"echo	echo \"…\""
+			],
+			[
+				"Wo",
+				"WarningColor	(Variables.inc)"
+			],
+			[
+				"No",
+				"NormalColor	(Variables.inc)"
+			],
+			[
+				"de",
+				"DefaultBands"
+			],
+			[
+				"me",
+				"Measure"
+			],
+			[
+				"Con",
+				"ContextTitle"
+			],
+			[
+				"Li",
+				"LineColor"
+			],
+			[
+				"A",
+				"Artist"
+			],
+			[
+				"Measure",
+				"MeasureArtist"
+			],
+			[
+				"Me",
+				"MeasureAlbum"
+			],
+			[
+				"T",
+				"Time"
+			],
+			[
+				"Ifmatcha",
+				"IfMatchAction1"
+			],
+			[
+				"Ifma",
+				"IfMatch1"
+			],
+			[
+				"Ifmac",
+				"IfMatch"
+			],
+			[
+				"Bar",
+				"BarColor"
+			],
+			[
+				"co",
+				"color	(variables.ini)"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"MeasureStatusC",
+				"MeasureStatusCAD"
+			],
+			[
+				"ne",
+				"nexusmods"
+			],
+			[
+				"If",
+				"IfMatch"
+			],
+			[
+				"win",
+				"WinColor"
+			],
+			[
+				"S",
+				"SolidColor"
+			],
+			[
+				"D",
+				"Disabled"
+			],
+			[
+				"Font",
+				"FontColor"
+			],
+			[
+				"tur",
+				"turtle.attack"
+			],
+			[
+				"turtl",
+				"turtle.compare"
+			],
+			[
+				"turtle",
+				"turtle.detect"
+			],
+			[
+				"now",
+				"NowPlayeriTunes"
+			],
+			[
+				"hi",
+				"HideMeter"
+			],
+			[
+				"sho",
+				"ShowMeter"
+			],
+			[
+				"Hi",
+				"HideMeter"
+			],
+			[
+				"hide",
+				"HideMeter"
+			],
+			[
+				"Sho",
+				"ShowMeter"
+			],
+			[
+				"ex",
+				"exmeasure"
+			],
+			[
+				"Sty",
+				"StyleAudioFFT"
+			],
+			[
+				"measurea",
+				"MeasureAudioRMS_L"
+			],
+			[
+				"mea",
+				"MeasureTimeCountUp"
+			],
+			[
+				"measure",
+				"MeasureVolume1"
+			],
+			[
+				"tud",
+				"turtle.down"
+			],
+			[
+				"tuf",
+				"turtle.forward"
+			],
+			[
+				"tup",
+				"turtle.placeDown"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ho",
+				"hover"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"t",
+				"top	CSS - top: 0;"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"sli",
+				"slideDown	.slideDown()"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"au",
+				"auto"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"a",
+				"alignment"
+			],
+			[
+				"tuup",
+				"turtle.up"
+			],
+			[
+				"pd",
+				"turtle.placeDown"
+			],
+			[
+				"bo",
+				"border-left"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"bode",
+				"border"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"sideba",
+				"sidebar-padding"
+			],
+			[
+				"hed",
+				"header  (element)"
+			],
+			[
+				"ha",
+				"header-height"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"Pla",
+				"Play"
+			],
+			[
+				"p",
+				"Player"
+			],
+			[
+				"st",
+				"String"
+			],
+			[
+				"Mete",
+				"Meter"
+			],
+			[
+				"sta",
+				"State"
+			],
+			[
+				"Play",
+				"Player"
+			],
+			[
+				"Mw",
+				"MeasureWeatherDesc"
+			],
+			[
+				"We",
+				"weather"
+			],
+			[
+				"g",
+				"GrayColor"
+			],
+			[
+				"fon",
+				"FontSize"
+			],
+			[
+				"G",
+				"GrayColor"
+			],
+			[
+				"ME",
+				"MeasureName"
+			],
+			[
+				"Mea",
+				"Measure"
+			],
+			[
+				"M",
+				"MeasurePercent"
+			],
+			[
+				"Fo",
+				"Formula"
+			],
+			[
+				"L",
+				"LightColor"
+			],
+			[
+				"Sh",
+				"Show"
+			],
+			[
+				"H",
+				"Hide"
+			],
+			[
+				"sh",
+				"ShuffleOn"
+			],
+			[
+				"su",
+				"Shuffle"
+			],
+			[
+				"Ifa",
+				"IfAboveValue"
+			],
+			[
+				"Imag",
+				"ImageName"
+			],
+			[
+				"So",
+				"Show"
+			],
+			[
+				"IF",
+				"IfEqualAction"
+			],
+			[
+				"I",
+				"Image"
+			],
+			[
+				"Im",
+				"Image"
+			],
+			[
+				"Ima",
+				"ImageName"
+			],
+			[
+				"C",
+				"ClipStringW"
+			],
+			[
+				"P",
+				"MeasureProgress"
+			],
+			[
+				"li",
+				"LightColor"
+			],
+			[
+				"m",
+				"MeterStyle"
+			],
+			[
+				"Meter",
+				"MeterStyle"
+			],
+			[
+				"St",
+				"String"
+			],
+			[
+				"F",
+				"Font"
+			],
+			[
+				"Fon",
+				"FontSize"
+			],
+			[
+				"fo",
+				"Font"
+			],
+			[
+				"Met",
+				"Meter"
+			],
+			[
+				"Meas",
+				"MeasureName"
+			],
+			[
+				"FO",
+				"FontSize"
+			],
+			[
+				"si",
+				"sidebar-padding"
+			],
+			[
+				"side",
+				"sidebar-width"
+			],
+			[
+				"dark",
+				"dark-green"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"conte",
+				"content"
+			],
+			[
+				"con",
+				"content	@content"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"whi",
+				"white"
+			],
+			[
+				"be",
+				"beige"
+			],
+			[
+				"lig",
+				"ligt-orange"
+			],
+			[
+				"da",
+				"dark-green"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"padding-",
+				"padding-top:   (property)"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"background-",
+				"background-color:   (property)"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"tu",
+				"true"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pai",
+		"selected_items":
+		[
+			[
+				"pai",
+				"Package Control: Install Package"
+			],
+			[
+				"pal",
+				"Package Control: List Packages"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"par",
+				"Package Control: Remove Package"
+			],
+			[
+				"pare",
+				"Package Control: Remove Package"
+			],
+			[
+				"word",
+				"Snippet: WordPress File Header"
+			],
+			[
+				"cod",
+				"codic: input"
+			],
+			[
+				"paad",
+				"Package Control: Add Repository"
+			],
+			[
+				"codic",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ini",
+				"Set Syntax: INI"
+			],
+			[
+				"lo",
+				"Local History: Open"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"kay",
+				"Keymaps: Cheat Sheet"
+			],
+			[
+				"Ini",
+				"Set Syntax: INI"
+			],
+			[
+				"g",
+				"Google Translate selected text"
+			],
+			[
+				"be",
+				"SassBeautify"
+			],
+			[
+				"cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"pad",
+				"Package Control: Disable Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"translate",
+				"Google Translate Print the available translate variants"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"bea",
+				"SassBeautify"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"pau",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pali",
+				"Package Control: List Packages"
+			],
+			[
+				"repa",
+				"Package Control: Remove Package"
+			],
+			[
+				"repo",
+				"Package Control: Remove Repository"
+			],
+			[
+				"addre",
+				"Package Control: Add Repository"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ba",
+				"Set Syntax: Batch File"
+			],
+			[
+				"finedk",
+				"FindKeyConflicts: All Key Maps to Quick Panel"
+			],
+			[
+				"pacce",
+				"Package Control: Enable Package"
+			],
+			[
+				"col",
+				"Color Picker"
+			],
+			[
+				"pin",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: e",
+				"Package Control: Enable Package"
+			],
+			[
+				"pae",
+				"Package Control: Enable Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: l",
+				"Package Control: List Packages"
+			],
+			[
+				"pakr",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"co",
+				"Set Syntax: ComputerCraft"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"com",
+				"Set Syntax: ComputerCraft"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"pi",
+				"Color Picker"
+			],
+			[
+				"pic",
+				"Color Picker"
+			],
+			[
+				"c",
+				"Color picker"
+			],
+			[
+				"i",
+				"Set Syntax: INI"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"j",
+				"Set Syntax: Java"
+			],
+			[
+				"p",
+				"Package Control: Enable Package"
+			],
+			[
+				"ja",
+				"Set Syntax: Java"
+			],
+			[
+				"parem",
+				"Package Control: Remove Package"
+			],
+			[
+				"coler",
+				"Color picker"
+			],
+			[
+				"dif",
+				"FileDiffs: Menu"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"open",
+				"Local History: Open"
+			],
+			[
+				"si",
+				"View: Toggle Side Bar"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"bat",
+				"Set Syntax: Batch File"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) ",
+			" import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Utility/MultiMC/instances/WaseiMOD/minecraft/config/splash.properties",
+		"/D/Utility/MultiMC/instances/WaseiMOD/minecraft/config/SextiarySector.cfg",
+		"/D/mikan_megane/Documents/Git/Blog/scss/style.scss",
+		"/D/mikan_megane/Documents/Git/Blog/scss/_Reset.scss",
+		"/D/mikan_megane/Documents/Rainmeter/Skins/mikan-megane/Process/Process.ini",
+		"/D/Utility/MultiMC/multimc.cfg",
+		"/C/Users/mikan_megane/AppData/Local/FireAlpaca/FireAlpaca/Config.ini",
+		"/C/Users/mikan_megane/AppData/Roaming/Sublime Text 3/Packages/User/codic.sublime-settings",
+		"/C/Users/mikan_megane/AppData/Roaming/Sublime Text 3/Packages/Codic/codic.sublime-settings",
+		"/D/mikan_megane/Documents/Rainmeter/Skins/Eye of the Storm/Eye of the Storm.ini",
+		"/C/Users/mikan_megane/AppData/Roaming/TCSS/4.2mikan/chains.txt",
+		"/D/mikan_megane/Documents/Rainmeter/Skins/Eye of the Storm/@Resources/Variables.inc",
+		"/D/mikan_megane/Documents/Rainmeter/Skins/SteamFriends/SteamFriends.ini",
+		"/D/mikan_megane/Documents/Rainmeter/Skins/SteamFriendsList/SteamFriendsList-05.ini",
+		"/D/mikan_megane/Music/MusicBee/Collection/Music/Enya/Dark Sky Island/# Echoes In Rain.lrc",
+		"/D/mikan_megane/Documents/Git/Blog/stylesheets/style.css",
+		"/D/Utility/Shortcut/zettai.bat",
+		"/D/Utility/Launchy/zettai/zettai.exe",
+		"/D/Utility/Launchy/zettai/zettai.ini",
+		"/D/mikan_megane/Documents/Rainmeter/Skins/Eye of the Storm/@Resources/WriteBands.inc",
+		"/D/mikan_megane/Documents/Rainmeter/Skins/Eye of the Storm/@Resources/ReadBands.inc",
+		"/C/Users/mikan_megane/AppData/Roaming/Sublime Text 3/Packages/User/INI.sublime-settings",
+		"/C/Users/mikan_megane/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/D/mikan_megane/Documents/Rainmeter/Skins/Dexterity/Dexterity.ini",
+		"/D/mikan_megane/Documents/Rainmeter/Skins/mikan-megane/Music/Music.ini",
+		"/D/mikan_megane/Documents/Rainmeter/Skins/mikan-megane/Monstercat_Visualizer/Normal.ini",
+		"/D/mikan_megane/Documents/Rainmeter/Skins/mikan-megane/Monstercat_Visualizer/togle.ini",
+		"/D/mikan_megane/Documents/Rainmeter/Skins/mikan-megane/Monstercat_Visualizer/D8Color.lua",
+		"/D/mikan_megane/Documents/Rainmeter/Skins/mikan-megane/@Resources/mikan.inc",
+		"/D/mikan_megane/Documents/Rainmeter/Skins/mikan-megane/Monstercat_Visualizer/D8Variables.inc",
+		"/C/Users/mikan_megane/.sublime/history/D/mikan_megane/Documents/Rainmeter/Skins/Eye of the Storm/@Resources/2015-10-24_11.53.12.Variables.inc",
+		"/D/mikan_megane/Documents/Rainmeter/Skins/mikan-megane/Volume/volume.ini",
+		"/D/mikan_megane/Documents/Git/Blog/scss/_Article.scss",
+		"/D/mikan_megane/Documents/Git/Blog/scss/_Header.scss",
+		"/D/mikan_megane/Documents/Git/Blog/scss/_Sidebar.scss",
+		"/C/Users/mikan_megane/AppData/Roaming/Rainmeter/Rainmeter.ini",
+		"/D/mikan_megane/Desktop/style.css",
+		"/D/mikan_megane/Documents/Rainmeter/Skins/VisBubble/BarExtrude.ini",
+		"/D/mikan_megane/Documents/Rainmeter/Skins/Night Shade Clock/Small/NighShadeClockmini.ini",
+		"/D/mikan_megane/Documents/Rainmeter/Skins/VisBubble/Settings.inc",
+		"/D/mikan_megane/Documents/Rainmeter/Skins/mikan-megane/Monstercat_Visualizer/circle.ini",
+		"/C/Users/mikan_megane/AppData/Roaming/Sublime Text 3/Packages/User/goTranslate.sublime-settings",
+		"/C/Users/mikan_megane/AppData/Roaming/Sublime Text 3/Packages/Inline Google Translate/goTranslate.sublime-settings",
+		"/D/mikan_megane/Documents/Rainmeter/Skins/mikan-megane/Audio FFT/Audio FFT.ini",
+		"/D/mikan_megane/Desktop/chrome_to_any_browser/menu_list.txt",
+		"/C/Users/mikan_megane/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/mikan_megane/Documents/Rainmeter/Skins/mikan-megane/@Resources/variables.ini",
+		"/D/mikan_megane/Documents/Rainmeter/Skins/mikan-megane/@Resources/include/MeterBars.inc",
+		"/D/mikan_megane/Documents/Rainmeter/Skins/mikan-megane/@Resources/include/BandMeasuresSmoothed.inc",
+		"/D/mikan_megane/Documents/Rainmeter/Skins/mikan-megane/@Resources/include/BandMeasures.inc",
+		"/D/mikan_megane/Documents/Rainmeter/Skins/mikan-megane/@Resources/scripts/Refresher.lua",
+		"/D/mikan_megane/Documents/Rainmeter/Skins/VisBubble/@Resources/scripts/Refresher.lua",
+		"/D/mikan_megane/Documents/Rainmeter/Skins/VisBubble/MultiLineExtrude.ini",
+		"/D/Utility/game/ModOrganizer2/overwrite/prefs.ini",
+		"/D/Program Files (x86)/Steam/steamapps/common/Skyrim/SkyrimEditor.ini",
+		"/C/Users/mikan_megane/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/mikan_megane/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/C/Users/mikan_megane/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/mikan_megane/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/mikan_megane/AppData/Roaming/Sublime Text 3/Packages/User/SassBeautify.sublime-settings",
+		"/C/Users/mikan_megane/AppData/Roaming/Sublime Text 3/Packages/SassBeautify/SassBeautify.sublime-settings",
+		"/D/mikan_megane/Documents/Git/Blog/scss/_Article.scss.rej",
+		"/E/Programs/osu!/osu!.mikan_megane.cfg",
+		"/E/Programs/osu!/osu!.mikan.cfg",
+		"/C/Users/mikan_megane/AppData/Local/Google/Chrome/User Data/Default/Extensions/hknbgddeakehmkjbcakokcodmemfcldk/1.2.0_0/background.html",
+		"/C/Users/mikan_megane/AppData/Local/Google/Chrome/User Data/Default/Extensions/hknbgddeakehmkjbcakokcodmemfcldk/1.2.0_0/options.html",
+		"/C/Users/mikan_megane/AppData/Local/Google/Chrome/User Data/Default/Extensions/hknbgddeakehmkjbcakokcodmemfcldk/1.2.0_0/contentscript.js",
+		"/C/Users/mikan_megane/AppData/Local/Google/Chrome/User Data/Default/Extensions/hknbgddeakehmkjbcakokcodmemfcldk/1.2.0_0/dll_src.zip",
+		"/C/Users/mikan_megane/AppData/Local/Google/Chrome/User Data/Default/Extensions/hknbgddeakehmkjbcakokcodmemfcldk/1.2.0_0/manifest.json",
+		"/C/Users/mikan/AppData/Roaming/posite-c/NiconamaCommentViewer/UserSetting.xml",
+		"/D/borland/bcc55/Bin/bcc32.cfg",
+		"/D/borland/bcc55/Bin/ilink32.cfg",
+		"/D/mikan_megane/Desktop/DxLib_BCC/サンプルプログラム実行用フォルダ/test.cpp",
+		"/D/mikan_megane/Documents/DxLib_VC/サンプルプログラム実行用フォルダ/testst.cpp",
+		"/C/Users/mikan/AppData/Roaming/Rainmeter/Rainmeter.ini",
+		"/C/Users/mikan/AppData/Roaming/Mozilla/Firefox/Profiles/xbs2dej4.dev-edition-default/gm_scripts/SmartNicorepo/SmartNicorepo.user.js",
+		"/D/mikan/Documents/Rainmeter/Skins/mikan-megane/Audio FFT/Audio FFT.ini",
+		"/D/mikan/Documents/Rainmeter/Skins/Monstercat_Visualizer/@Resources/include/BandMeasuresSmoothed.inc",
+		"/D/mikan/Documents/Rainmeter/Skins/Monstercat_Visualizer/@Resources/variables.ini",
+		"/D/mikan/Documents/Rainmeter/Skins/Monstercat_Visualizer/Normal.ini",
+		"/D/mikan/Documents/Rainmeter/Skins/Monstercat_Visualizer/D8Variables.inc",
+		"/D/Utility/MultiMC/instances/eazycraft/minecraft/config/net.minecraft.scalar.mineall.mod_MineAllSMP.cfg",
+		"/D/Utility/MultiMC/instances/eazycraft/minecraft/config/net.minecraft.scalar.cutall.mod_CutAllSMP.cfg",
+		"/D/mikan/Documents/Rainmeter/Skins/mikan-megane/Volume/volume.ini",
+		"/D/mikan/Desktop/pb.vcf",
+		"/D/mikan/Documents/Rainmeter/Skins/mikan-megane/System/system.ini",
+		"/D/mikan/Documents/Rainmeter/Skins/mikan-megane/Launchy/launchy.ini",
+		"/D/mikan/Documents/Rainmeter/Skins/mikan-megane/Music/Music.ini",
+		"/D/mikan/Documents/GitHub/Blog/scss/_Article.scss",
+		"/D/mikan/Documents/GitHub/Blog/scss/style.scss",
+		"/D/mikan/Documents/GitHub/Blog/stylesheets/style.css",
+		"/D/Utility/MultiMC/instances/eazycraft/minecraft/config/agricraft/Configuration.cfg",
+		"/D/Utility/MultiMC/instances/eazycraft/minecraft/mods/millenaire/config.txt",
+		"/D/mikan/Desktop/ZiiLauncher/skins/mikan_megane/skin.ini",
+		"/D/Utility/Launchy/Skins/mikan megane/misc.txt",
+		"/D/Utility/Launchy/Skins/mikan megane/style.qss",
+		"/D/mikan/Documents/Rainmeter/Skins/mikan-megane/System/System.ini",
+		"/D/Utility/MultiMC/instances/eazycraft/minecraft/IDChecker/ItemList.txt",
+		"/D/Utility/MultiMC/instances/eazycraft/minecraft/IDChecker/BlockList.txt",
+		"/D/mikan/Documents/Rainmeter/Skins/mikan-megane/Process/Process.ini",
+		"/C/Users/mikan/AppData/Roaming/.minecraft/config/DQMIV.cfg",
+		"/C/Users/mikan/AppData/Roaming/.minecraft/versions/1.5.2 forge/1.5.2 forge.json",
+		"/G/Users/mikan/AppData/Roaming/.minecraft/versions/1.5.2 forge/1.5.2 forge.json",
+		"/G/Users/mikan/AppData/Roaming/.minecraft/versions/1.5.2 forge/1.5.2forge.json",
+		"/D/mikan/Documents/Rainmeter/Skins/Monstercat_Visualizer/togle.ini",
+		"/D/mikan/Documents/Rainmeter/Skins/Monstercat_Visualizer/@Resources/include/MeterBars.inc",
+		"/D/mikan/Documents/Rainmeter/Skins/Monstercat_Visualizer/@Resources/scripts/Refresher.lua",
+		"/D/mikan/Documents/Rainmeter/Skins/Monstercat_Visualizer/@Resources/scripts/Factory.lua",
+		"/D/mikan/Documents/Rainmeter/Skins/Monstercat_Visualizer/@Resources/include/BandMeasures.inc",
+		"/D/mikan/Documents/Rainmeter/Skins/Night Shade Clock/Small/NighShadeClockmini.ini",
+		"/D/mikan/Documents/Rainmeter/Skins/Night Shade Clock/Small/NighShadeClockminiAlt.ini",
+		"/D/mikan/Documents/Rainmeter/Skins/Swiss Railway Clock/Swiss Railway Clock Light/regular.ini",
+		"/D/mikan/Desktop/UndergroundBathhouse5_0日本語化/UndergroundBathhouse_English.SSLXLTN",
+		"/C/Users/mikan/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/mikan/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/mikan/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Utility/Game/ModOrganizer/ENB Man/Presets/True HDR/enblocal.ini",
+		"/D/Utility/Game/ModOrganizer/profiles/Default/skyrimprefs.ini",
+		"/D/mikan/Desktop/Seasons of Skyrim ENB v0.262 - Revision 1a-23812-0-262rev1a/True HDR/performance options/Option E (extreme performance)/enbseries.ini",
+		"/D/Utility/Game/ModOrganizer/profiles/Default/skyrim.ini",
+		"/D/Utility/Game/ModOrganizer/mods/Skyrim Stability Guide/SKSE/skse.ini",
+		"/D/Utility/Game/ModOrganizer/mods/Fair Skin Complexion/meta.ini",
+		"/D/Utility/MultiMC/instances/direwolf mikan/minecraft/saves/New World/PortalGun_world.cfg",
+		"/D/Utility/MultiMC/instances/direwolf mikan/minecraft/config/GregTech/Recipes.cfg",
+		"/D/Utility/MultiMC/instances/Greg 1.7.10/minecraft/config/GregTech/Recipes.cfg",
+		"/D/Utility/MultiMC/instances/Greg 1.7.10 nihilo/minecraft/config/GregTech/DynamicConfig.cfg",
+		"/D/Utility/MultiMC/instances/direwolf mikan/minecraft/config/GregTech/GregTech.cfg",
+		"/D/Utility/MultiMC/instances/direwolf mikan/minecraft/config/GregTech/MaterialProperties.cfg"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			"<open folders>",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mikan",
+			"/mikan/",
+			"[!Refresh]",
+			"Solid=0",
+			"((#CenterOffset#+(#RoundlineLength#*#Bands#)+(#RoundlineGap#*(#Bands#-1)))*1)",
+			"LineStart=173",
+			"MeasureTrackPosition",
+			"Artist",
+			"Repeat",
+			"MeasureTrackPosition",
+			"Position",
+			"time",
+			"MeasureAlbum",
+			"visu",
+			"174",
+			"175",
+			"30",
+			"time0",
+			"ctrl shift u",
+			"time0",
+			"*1",
+			"LineLength=",
+			"105",
+			"LineLength=",
+			"lineLength",
+			"LineLength",
+			"/1.5",
+			"1.5",
+			"2",
+			"1.5",
+			"150",
+			"180",
+			"500",
+			"350",
+			"238",
+			"180",
+			"LineLength=",
+			"LineLength",
+			"LineLength=",
+			"lineLength",
+			"LineLength",
+			"/2",
+			"*2",
+			"128",
+			"0",
+			"2",
+			"*",
+			"288",
+			"128",
+			"90",
+			"180",
+			"ani",
+			"}",
+			"fac",
+			"plu",
+			";",
+			"color",
+			"colo",
+			"289",
+			"290",
+			"280",
+			"300",
+			"LineLength",
+			"40",
+			"100",
+			"MeterTotalDisk",
+			"HandColor",
+			"\"",
+			"background.ncv.set_path",
+			"/",
+			"4",
+			";",
+			"2.5",
+			"/3",
+			"3",
+			"/",
+			";",
+			"/",
+			"23",
+			"  ",
+			"weed",
+			"language",
+			"	",
+			"32",
+			"ore",
+			"ic2:*ore",
+			":slime.gel",
+			":blockRubWood",
+			":slime.leaves",
+			":rubberwood",
+			":hatchet",
+			"hatchet",
+			"pickaxe",
+			"Ore",
+			"magicalcrops_EssenceOre",
+			"ore",
+			"leave",
+			"log",
+			"pickaxe,ite",
+			"ore,tile",
+			"ore,",
+			"ore",
+			"StyleStaticBar",
+			"win",
+			"]\nMeasure=Calc",
+			"]",
+			"7",
+			"groupbarc",
+			"]",
+			"\nH=(728*0.30)/2",
+			"255",
+			"00",
+			"^$",
+			"Group Open",
+			"=false",
+			"false",
+			"blockdiamond",
+			"compre",
+			"\n",
+			"\n\n\n",
+			"\n\n",
+			"#",
+			"echo ",
+			" D",
+			"0]",
+			"version",
+			"pop",
+			"1.5.2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"23",
+			"22",
+			"21",
+			"20",
+			"19",
+			"18",
+			"17",
+			"16",
+			"15",
+			"14",
+			"13",
+			"12",
+			"11",
+			"10",
+			"9",
+			"8",
+			"7",
+			"6",
+			"5",
+			"\n/",
+			"\n*",
+			"\n",
+			"*",
+			"\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bs_sintax": "plain text",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 127.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
